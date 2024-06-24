@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPRA", "UPRA\UPRA.csproj", "{6181690A-ED5F-4B7C-9ECA-EAD53DD0965A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6181690A-ED5F-4B7C-9ECA-EAD53DD0965A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6181690A-ED5F-4B7C-9ECA-EAD53DD0965A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6181690A-ED5F-4B7C-9ECA-EAD53DD0965A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6181690A-ED5F-4B7C-9ECA-EAD53DD0965A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137C51EA-24F5-418A-A9BA-525D41EE3692}
+	EndGlobalSection
+EndGlobal
